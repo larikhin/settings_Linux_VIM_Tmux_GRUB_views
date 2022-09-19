@@ -1,3 +1,19 @@
+# sudo vim /etc/sysctl.conf (put inside --> vm.swappiness=10)
+
+# sudo apt install curl
+#curl -fLo ~/.vim/autoload/plug.vim --create-dirs     https:raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+#  git clone https://github.com/morhetz/gruvbox.git "~\vimfiles\pack\default\start\gruvbox"
+#  source "$HOME/.vim/bundle/gruvbox/gruvbox_256palette.sh"
+# sudo apt install python3-virtualenv
+# sudo apt install synaptic gdebi
+#  sudo apt install gnome-tweak-tool
+#  sudo apt install chrome-gnome-shell
+#  sudo add-apt-repository ppa:graphics-drivers/ppa
+#  sudo apt install tlp tlp-rdw
+#  sudo tlp start
+# sudo apt install vim-gtk3
+# sudo apt install mc
+# dconf write /org/gnome/desktop/sound/event-sounds false
 # vim ~/.vimrc
 # source .vimrc
 # PlugInstall
