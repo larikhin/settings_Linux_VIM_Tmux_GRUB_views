@@ -1,3 +1,4 @@
+# sudo apt install vim-gtk3
 # sudo vim /etc/sysctl.conf (put inside --> vm.swappiness=10)
 
 # sudo apt install curl
